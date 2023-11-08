@@ -12,7 +12,6 @@ This Python program implements a console-based Number Sum game where you, as the
 6. [Prerequisites](#prerequisites)
 7. [Getting Started](#getting-started)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 
@@ -78,4 +77,4 @@ To play the game, follow these steps:
 4. Run the game by executing the following command:
 
 ```python
-python number_sum_game.py
+python main.py
