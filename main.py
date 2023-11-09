@@ -1,6 +1,5 @@
-from game import Game
+from NumberScrabble import NumberScrabble
 
 if __name__ == '__main__':
-    game = Game()
-
-    game.play()
+    game = NumberScrabble()
+    game.play_game()
